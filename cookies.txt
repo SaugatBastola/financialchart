@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+merolagani.com	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	aijuzshuucwrw1worybekdyq
+.merolagani.com	TRUE	/	FALSE	1999999999	_ga	GA1.2.1951154506.1591111958
+.merolagani.com	TRUE	/	FALSE	1999999999	_gid	GA1.2.2107305196.1591111958
+merolagani.com	TRUE	/	FALSE	1999999999	__atuvc	7%7C23
+merolagani.com	TRUE	/	FALSE	1999999999	__atuvs	5ed6711204e660b7006
+merolagani.com	TRUE	/	FALSE	1999999999	meroLagani_LoginSession	7xCXdVdUXboeuPFb7U2OvRROLvz5VPDqkYchQSYMOxQ=
+.merolagani.com	TRUE	/	FALSE	1999999999	_gat	1
+
